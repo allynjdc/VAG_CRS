@@ -1,0 +1,11 @@
+
+#slider 
+	{
+	    width: 900px; 
+		height: 300px; 
+		position: relative; 
+		overflow: hidden; 
+		text-align:left;
+	}
+
+
